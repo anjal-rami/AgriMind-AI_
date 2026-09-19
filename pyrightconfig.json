@@ -1,0 +1,12 @@
+{
+  "venvPath": "C:\\Users\\Admin\\AppData\\Local\\Programs\\Python",
+  "pythonVersion": "3.11",
+  "extraPaths": [
+    ".",
+    "./backend",
+    "./rules",
+    "C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages"
+  ],
+  "reportMissingImports": false,
+  "reportMissingTypeStubs": false
+}

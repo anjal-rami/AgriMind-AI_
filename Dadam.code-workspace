@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Project Images/Jagudan/Dadam"
+		},
+		{
+			"path": "../../Project Images/Jagudan/Gvava"
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance"
+	}
+}
